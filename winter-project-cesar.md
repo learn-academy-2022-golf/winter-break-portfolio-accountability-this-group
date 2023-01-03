@@ -19,4 +19,5 @@
   [X] Consistent Theme
   [X] Spell check / Grammar check
 
-Anthony Ramirez: nicely done, I like the links to your projects and to your resume. I think you are missing a few icons for your languages. but pretty clean over all.
+Anthony Ramirez:
+Nicely done, I like the links to your projects and to your resume. I think you are missing a few icons for your languages. but pretty clean over all.
